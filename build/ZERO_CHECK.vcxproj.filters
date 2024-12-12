@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\7semestr\os\labs\lab2d-20241212T041410Z-001\lab2d\build\CMakeFiles\622f8b38e0faabc50268683acbb0fff5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7D8AE74E-1639-32DE-BD22-DC8D6715A6FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^D:\7SEMESTR\OS\LABS\LAB2D-20241212T041410Z-001\LAB2D\BUILD\CMAKEFILES\622F8B38E0FAABC50268683ACBB0FFF5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d -BD:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/Background_process.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

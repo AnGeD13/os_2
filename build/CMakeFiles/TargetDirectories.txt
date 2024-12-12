@@ -1,0 +1,5 @@
+D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/CMakeFiles/background_process.dir
+D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/CMakeFiles/main.dir
+D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/CMakeFiles/subprogram.dir
+D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/CMakeFiles/ALL_BUILD.dir
+D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/CMakeFiles/ZERO_CHECK.dir

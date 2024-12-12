@@ -1,0 +1,10 @@
+^D:\7SEMESTR\OS\LABS\LAB2D-20241212T041410Z-001\LAB2D\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d -BD:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build --check-stamp-file D:/7semestr/os/labs/lab2d-20241212T041410Z-001/lab2d/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
